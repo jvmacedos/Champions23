@@ -12,7 +12,7 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 
 - **ETL com Python:** Utilizamos Python para extrair, transformar e carregar (ETL) os dados do campeonato.
 
-- **Visualizações com Power BI:** Visualizações detalhadas e interativas no Power BI para analisar o desempenho dos jogadores durante o campeonato e entender melhor o que aconteceu para os 3 melhores times terem os seus resultados.
+- **Visualizações com Power BI:** Visualizações detalhadas e interativas no Power BI para analisar o desempenho dos jogadores durante o campeonato e entender melhor como os três melhores times obtiveram esses resultados.
 
 - ## Como Usar
 
