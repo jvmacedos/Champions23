@@ -22,7 +22,7 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 
 2. **Executando o Projeto:**
 - Siga as instruções no arquivo do Jupyter `VCT_Champions23.ipynb` para executar a análise de dados em Python.
-- Abra o arquivo Power BI `Python + PowerBI.pbix` para explorar as visualizações e insights. NÃO ESQUEÇA DE CRIAR O AMBIENTE VIRTUAL!
+- Abra o arquivo Power BI `Python + PowerBI.pbix` para explorar as visualizações e insights. *NÃO ESQUEÇA DE CRIAR O AMBIENTE VIRTUAL!*
 
 ## Contribuição
 
