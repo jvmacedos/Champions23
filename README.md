@@ -23,8 +23,8 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 - Power BI(É necessário a criação de um ambiente virtual com o Anaconda para colocá-lo no PowerBI, pois assim podemos executar as funções das bibliotecas Python).
 
 3. **Executando o Projeto:**
-- Siga as instruções no diretório `python-scripts` para executar a análise de dados em Python.
-- Abra o arquivo Power BI `projeto-champions23.pbix` para explorar as visualizações e insights.
+- Siga as instruções no arquivo do Jupyter `VCT_Champions23.ipynb` para executar a análise de dados em Python.
+- Abra o arquivo Power BI `Python + PowerBI.pbix` para explorar as visualizações e insights. NÃO ESQUEÇA DE CRIAR O AMBIENTE VIRTUAL!
 
 ## Contribuição
 
