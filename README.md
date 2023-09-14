@@ -32,6 +32,6 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 
 Esperamos que este projeto seja útil e informativo para a comunidade de Valorant e eSports. Fique à vontade para entrar em contato conosco para discussões e feedbacks adicionais.
 
-Siga-nos no LinkedIn: [João Victor]([https://www.linkedin.com/seu-nome](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
+Siga-nos no LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
 
 
