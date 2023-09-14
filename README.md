@@ -16,7 +16,7 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 
 - ## Como Usar
 
-1. **Clone este repositório: https://github.com/jvmacedos/Champions23
+1. **Clone este repositório: https://github.com/jvmacedos/Champions23**
 
 2.  **Requisitos:**
 - Python (Anaconda com as bibliotecas + Jupyter Notebook/Lab);
