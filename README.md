@@ -16,13 +16,11 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 
 - ## Como Usar
 
-1. **Clone este repositório: https://github.com/jvmacedos/Champions23**
-
-2.  **Requisitos:**
+1.  **Requisitos:**
 - Python (Anaconda com as bibliotecas + Jupyter Notebook/Lab);
 - Power BI(É necessário a criação de um ambiente virtual com o Anaconda para colocá-lo no PowerBI, pois assim podemos executar as funções das bibliotecas Python).
 
-3. **Executando o Projeto:**
+2. **Executando o Projeto:**
 - Siga as instruções no arquivo do Jupyter `VCT_Champions23.ipynb` para executar a análise de dados em Python.
 - Abra o arquivo Power BI `Python + PowerBI.pbix` para explorar as visualizações e insights. NÃO ESQUEÇA DE CRIAR O AMBIENTE VIRTUAL!
 
