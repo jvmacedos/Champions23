@@ -1,1 +1,1 @@
-<img src="[https://static.valorantzone.gg/news/2022/05/13120356/VCT22_Location_Announcement_Champions.jpg](https://noticias.maisesports.com.br/wp-content/uploads/2023/06/valorant-champions.jpg)https://noticias.maisesports.com.br/wp-content/uploads/2023/06/valorant-champions.jpg" height="300" width="1500">
+<img src="https://noticias.maisesports.com.br/wp-content/uploads/2023/06/valorant-champions.jpg" height="300" width="1500">
