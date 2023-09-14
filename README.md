@@ -30,8 +30,8 @@ O objetivo deste projeto é extrair insights valiosos a partir dos dados do "VCT
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um problema ou enviar um pull request. Estou aberto a melhorias, correções de bugs e sugestões.
 
-Esperamos que este projeto seja útil e informativo para a comunidade de Valorant e eSports. Fique à vontade para entrar em contato conosco para discussões e feedbacks adicionais.
+Espero que este projeto seja útil e informativo para a comunidade de Valorant e eSports. Fique à vontade para entrar em contato comigo para discussões e feedbacks adicionais.
 
-Siga-nos no LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
+Siga-me no LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
 
 
