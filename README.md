@@ -34,4 +34,7 @@ Espero que este projeto seja útil e informativo para a comunidade de Valorant e
 
 Siga-me no LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
 
+## Créditos
+
+Gostaria de agradecer ao usuário [davenxtdoor](https://www.kaggle.com/davenxtdoor) por disponibilizar este [Dataset](https://www.kaggle.com/datasets/davenxtdoor/valorant-champions-tour-2023?resource=download) ao público.
 
